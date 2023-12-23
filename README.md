@@ -1,14 +1,10 @@
-<br clear="both">
+###
 
 <h1 align="left">Timestamp Microservice</h1>
 
 ###
 
 <p align="left">This is the boilerplate code for the Timestamp Microservice project. https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
